@@ -16,8 +16,7 @@
     "target": "git://github.com/goldfire/howler.js.git",
     "basePath": "dist",
     "files": [
-      "howler.js",
-      "howler.min.js"
+      "**/*"
     ]
   },
   "repository": {
